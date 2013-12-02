@@ -1,0 +1,27 @@
+{
+  "name": "getsetmixin",
+  "version": "0.0.1",
+  "description": "Express like get/set mixin (Map) for objects",
+  "main": "getsetmixin.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha getsetmixin_test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lightsofapollo/getsetmixin.git"
+  },
+  "keywords": [
+    "get",
+    "set",
+    "mixin",
+    "map"
+  ],
+  "author": "James Lal [:lightsofapollo]",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lightsofapollo/getsetmixin/issues"
+  },
+  "devDependencies": {
+    "mocha": "~1.15.0"
+  }
+}
