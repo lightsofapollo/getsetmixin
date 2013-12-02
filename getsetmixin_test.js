@@ -1,6 +1,6 @@
 suite('getsetmixin', function() {
   var assert = require('assert');
-  var mixin = require('./getsetmixin');
+  var mixin = require('./');
 
   var subject;
   setup(function() {
